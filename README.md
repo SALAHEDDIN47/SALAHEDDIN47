@@ -4,8 +4,7 @@
 - 📫 You can reach me at salaheddinebsn@gmail.com
 - 😄 Pronouns: "We don't have that issue in our country 🙂​"
 - ⚡ Fun fact: As a programmer you should sometimes go outside to see enhanced graphics 😂.
-- ​💌​ today quote : "You are in danger of living a life so comfortable and soft that you will die without ever realizing your true potential."
-– David Goggins
+- ​💌​ today quote : "keep going ..."
 
 <!---
 SALAHEDDIN47/SALAHEDDIN47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
