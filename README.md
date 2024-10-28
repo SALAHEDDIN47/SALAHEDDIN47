@@ -4,13 +4,8 @@
 - 📫 You can reach me at salaheddinebsn@gmail.com
 - 😄 Pronouns: "We don't have that issue in our country 🙂​"
 - ⚡ Fun fact: As a programmer you should sometimes go outside to see enhanced graphics 😂.
-- ​💌​ today quote : N’ayez pas peur des
- obstacles. Rappelez-vous
- que le “CERF-VOLANT” du
- succès s’élève
- généralement CONTRE le
- vent de l’ADVERSITÉ – et
- non pas avec celui-ci 
+- ​💌​ today quote : work , Allah
+  
 
 <!---
 SALAHEDDIN47/SALAHEDDIN47 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
