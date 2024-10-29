@@ -4,7 +4,7 @@
 - 📫 You can reach me at salaheddinebsn@gmail.com
 - 😄 Pronouns: "We don't have that issue in our country 🙂​"
 - ⚡ Fun fact: As a programmer you should sometimes go outside to see enhanced graphics 😂.
-- ​💌​ today quote : work , Allah
+- ​💌​ today quote : Alhamdolilah.
   
 
 <!---
