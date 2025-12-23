@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SALAHEDDIN47
 - 👀 I’m a Full Stack Web And mobile App Developement
-- 🌱 Skill : javascript, react, react-native, node.js, express.js
+- 🌱 Skill : javascript, react, react-native, node.js, express.js,pl/sql, oracle DBA
 - 📫 You can reach me at salaheddinebsn@gmail.com
-- ⚡ Fun fact: As a programmer you should sometimes go outside to see enhanced graphics 😂.
 - ​💌​ today quote : Stay Consistent.
   
 
