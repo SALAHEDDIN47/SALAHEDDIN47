@@ -3,8 +3,7 @@
 🎯 **Machine Learning Enthusiast | Big Data & Cloud Student | Aspiring AI Engineer**
 
 📍 Casablanca, Morocco  
-🎓 Master's in Big Data & Cloud Computing – FSAC Casablanca  
-🔍 Actively looking for a **Machine Learning Engineer internship** (PFA)
+🎓 Master's in Big Data & Cloud Computing – FSAC Casablanca 
 
 ---
 
@@ -52,13 +51,7 @@ I'm a passionate computer science graduate with a strong foundation in **mathema
 
 ![Salaheddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=midox411&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=midox411&layout=compact)
-
 ---
-
-## 💡 Quote I like
-
-> *"The goal is to turn data into information, and information into insight."* – Carly Fiorina
 
 ---
 
