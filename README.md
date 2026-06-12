@@ -31,7 +31,7 @@ I'm a passionate computer science graduate with a strong foundation in **mathema
 `PostgreSQL` `MySQL` `Oracle`
 
 **Tools & Methodologies:**  
-`Git` `REST APIs` `Merise` `UML` `Docker` (basics)
+`Git` `REST APIs` `Merise` `UML` `Docker`
 
 ---
 
