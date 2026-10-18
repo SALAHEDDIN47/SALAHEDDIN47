@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Salaheddine Jalloul
 
-🎯 **Machine Learning Enthusiast | Big Data & Cloud Student | Aspiring AI Engineer**
+🎯 ** data engineer and Machine Learning Enthusiast**
 
 📍 Casablanca, Morocco  
 🎓 Master's in Big Data & Cloud Computing – FSAC Casablanca 
