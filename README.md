@@ -2,7 +2,7 @@
 
 # Salaheddine Jalloul
 
-### Machine Learning · Data Engineering · AI Engineering
+### Machine Learning  Data and  AI Engineering
 
 *I turn raw data into reliable AI systems, from the pipeline all the way to the API.*
 
